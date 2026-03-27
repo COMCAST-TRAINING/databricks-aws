@@ -1,0 +1,31 @@
+ticket_id,customer_id,category,priority,opened_date,resolution_days,status,csat_score,region
+TKT000001,CUST00001,Outage,Critical,2026-01-05,7,Resolved,2,Northeast
+TKT000002,CUST00001,Billing,Medium,2026-02-18,2,Resolved,4,Northeast
+TKT000003,CUST00002,Speed Issue,High,2026-01-12,4,Resolved,3,Southeast
+TKT000004,CUST00003,Equipment,Low,2026-01-20,1,Resolved,5,Midwest
+TKT000005,CUST00003,Outage,Critical,2026-03-01,9,Escalated,1,Midwest
+TKT000006,CUST00004,Billing,Medium,2026-02-05,3,Resolved,3,West
+TKT000007,CUST00006,Speed Issue,High,2026-01-15,6,Resolved,2,Northeast
+TKT000008,CUST00006,Installation,Low,2026-03-10,0,Pending,,Northeast
+TKT000009,CUST00007,Outage,Critical,2026-02-22,11,Escalated,1,Southeast
+TKT000010,CUST00008,Billing,Low,2026-01-28,1,Resolved,5,Midwest
+TKT000011,CUST00009,Speed Issue,Medium,2026-02-14,3,Resolved,4,West
+TKT000012,CUST00010,Outage,Critical,2026-01-08,8,Resolved,1,Southwest
+TKT000013,CUST00010,Equipment,High,2026-03-05,5,Resolved,3,Southwest
+TKT000014,CUST00011,Billing,Medium,2026-02-01,2,Resolved,4,Northeast
+TKT000015,CUST00012,Outage,High,2026-01-18,4,Resolved,3,Southeast
+TKT000016,CUST00013,Speed Issue,Low,2026-02-25,1,Resolved,5,Midwest
+TKT000017,CUST00014,Equipment,Medium,2026-03-08,4,Pending,,West
+TKT000018,CUST00016,Outage,Critical,2026-01-22,10,Escalated,1,Northeast
+TKT000019,CUST00017,Billing,Low,2026-02-10,1,Resolved,5,Southeast
+TKT000020,CUST00018,Speed Issue,High,2026-01-30,7,Resolved,2,Midwest
+TKT000021,CUST00019,Equipment,Medium,2026-03-12,3,Pending,,West
+TKT000022,CUST00020,Outage,High,2026-02-08,5,Resolved,3,Southwest
+TKT000023,CUST00022,Billing,Critical,2026-01-14,12,Escalated,1,Southeast
+TKT000024,CUST00022,Speed Issue,High,2026-02-28,6,Resolved,2,Southeast
+TKT000025,CUST00023,Equipment,Medium,2026-01-25,3,Resolved,4,Midwest
+TKT000026,CUST00024,Installation,Low,2026-03-15,0,Pending,,West
+TKT000027,CUST00026,Billing,Medium,2026-02-20,2,Resolved,4,Northeast
+TKT000028,CUST00027,Outage,Critical,2026-01-10,9,Escalated,1,Southeast
+TKT000029,CUST00028,Speed Issue,High,2026-02-16,4,Resolved,3,Midwest
+TKT000030,CUST00029,Equipment,Low,2026-03-18,1,Resolved,5,West
